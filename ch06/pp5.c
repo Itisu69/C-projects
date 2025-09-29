@@ -2,9 +2,9 @@
 
 int main(void)
 {
-    int n,x,y;
+    signed int n,x,y;
 
-    printf("Enter an integer number: \n");
+    printf("Enter any number: ");
     scanf("%d",&n);
 
     printf("The reverse is :");

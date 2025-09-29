@@ -14,7 +14,7 @@ int main() {
         ch = getchar();
     }
 
-    printf("Your message has %d character()\n",len);
+    printf("Your message has %d character(s)\n",len);
 
     return 0;
 }
