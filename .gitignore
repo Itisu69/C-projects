@@ -1,0 +1,15 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore Linux/macOS executables
+*.out
+*.o
+
+# Ignore VS Code settings and workspace files
+.vscode/
+*.code-workspace
+
+# Ignore common temporary files
+node_modules/
+dist/
+build/
